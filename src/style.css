@@ -1,0 +1,30 @@
+.container-fluid{
+    padding: 0 !important;
+    display: inline-block;
+    font-size: 0;
+}
+.navbar{
+    background-color: #4d8eb7;
+}
+.navbar-brand{
+    color: #fff;  
+}
+.menu-left{
+    display: inline-block;
+    width: 30%;
+    height: 100vh;
+    background-color: #242d31;
+    font-size: 1rem;
+    color: #fff;
+}
+.list-group-item{
+    background-color:#242d31 !important; 
+}
+.datos{
+    display: inline-block;
+    padding: 30px;
+    vertical-align: top;
+    width: 60%;
+    height: 100vh;
+    font-size: 1rem;
+}
